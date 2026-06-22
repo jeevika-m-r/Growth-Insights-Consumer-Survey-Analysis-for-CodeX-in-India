@@ -1,4 +1,4 @@
-## **Growth Insights: Consumer Survey Analysis for CodeX in India**
+## **CodeX Energy Drink — Consumer Survey Analysis**
 
 ### **1.Project Overview**
 CodeX, a German beverage company, is launching its energy drink across 10 cities in India. To support their marketing efforts in increasing brand awareness, market share, and product development, they conducted a survey among 10,000 respondents in those cities. This project aims to convert these survey results into actionable insights that can drive marketing strategies.
